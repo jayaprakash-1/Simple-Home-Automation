@@ -1,5 +1,5 @@
 # Simple-Home-Automation
-Home Appliences controlled through App
+Home Appliences controlled through Mobile App
 
 Hardware Used:
 
